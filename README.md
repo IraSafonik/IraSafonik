@@ -54,7 +54,13 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 
-## GitHub Stat
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IraSafonik&show_icons=true&theme=tokyonight)
+
+## GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=IraSafonik)](https://github.com/IraSafonik/github-profile-trophy)
+
+## GitHub streak stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IraSafonik)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Thank+you+for+reading!💙)](https://git.io/typing-svg)
