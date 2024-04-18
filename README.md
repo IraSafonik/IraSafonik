@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I'm Ira🤗</a> 
 
 ## 👩‍💻 About Me :
-#### 💫 Data Analyst who is passionate about harnessing the power of data to drive meaningful change.
-#### Fueled by an insatiable intellectual curiosity, I'm currently diving headfirst into the captivating worlds of AI and DS, where I aim to apply my analytical skills and problem-solving acumen to create tangible value.👩‍🎓
+#### 🌿 Data Analyst who is passionate about harnessing the power of data to drive meaningful change.
+#### 🌸 Fueled by a strong desire for research, learning, and hands-on experiences, I'm currently exploring the fascinating realms of artificial intelligence and data science.
 
 ## 🌎 From:
 #### 💙💛 Ukraine 
@@ -12,7 +12,7 @@
 #### 🇬🇧English - upper-intermediate
 #### 🇪🇸Spanish - pre-intermediate
 
-### ⚡ Core Competencies (Tools and Skills): 
+## 🌟 Core Competencies (Tools and Skills): 
 #### 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,23 +38,23 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 #### 🎛️ Operating System
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### Projects
+## Projects
 
-### 🎓 Education and Certification
+## 🎓 Education and Certification
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
 ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 
 
 ## GitHub Stat
