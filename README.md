@@ -9,6 +9,8 @@
 ## 🌎 From:
 ### 💙💛 𝕌𝕜𝕣𝕒𝕚𝕟𝕖
 
+<a href="#"><img align="right" src="https://github.com/IraSafonik/img/blob/main/6226435516042edfe1a4514a44e2023a.gif" width="200 " height="200" /></a>
+
 ## 🗣️ Languages: 
 ### 🇺🇦𝕌𝕜𝕣𝕒𝕚𝕟𝕚𝕒𝕟 - 𝕟𝕒𝕥𝕚𝕧𝕖
 ### 🇬🇧𝔼𝕟𝕘𝕝𝕚𝕤𝕙 - 𝕦𝕡𝕡𝕖𝕣-𝕚𝕟𝕥𝕖𝕣𝕞𝕖𝕕𝕚𝕒𝕥𝕖
