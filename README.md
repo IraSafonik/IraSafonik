@@ -8,7 +8,7 @@
 
 <div style="text-align: center;">
     <a href="#">
-        <img src="https://github.com/IraSafonik/img/blob/main/6226435516042edfe1a4514a44e2023a.gif" width="1000" height="150" />
+        <img src="https://github.com/IraSafonik/img/blob/main/6226435516042edfe1a4514a44e2023a.gif" width="900" height="150" />
     </a>
 </div>
 
