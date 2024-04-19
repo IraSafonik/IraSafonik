@@ -1,15 +1,15 @@
-<h1 align="center">ℍ𝕖𝕪 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝕀𝕣𝕒🙌</a> 
-  
+<h1 align="center">ℍ𝕖𝕪 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝕀𝕣𝕒🙌</h1>
+
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝕎𝕖𝕝𝕔𝕠𝕞𝕖+𝕥𝕠+𝕞𝕪+𝕡𝕣𝕠𝕗𝕚𝕝𝕖+🤗)](https://git.io/typing-svg)
 
 ## 👩‍💻 About Me :
 ### 🌿 𝔻𝕒𝕥𝕒 𝔸𝕟𝕒𝕝𝕪𝕤𝕥 𝕨𝕙𝕠 𝕚𝕤 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕒𝕓𝕠𝕦𝕥 𝕙𝕒𝕣𝕟𝕖𝕤𝕤𝕚𝕟𝕘 𝕥𝕙𝕖 𝕡𝕠𝕨𝕖𝕣 𝕠𝕗 𝕕𝕒𝕥𝕒 𝕥𝕠 𝕕𝕣𝕚𝕧𝕖 𝕞𝕖𝕒𝕟𝕚𝕟𝕘𝕗𝕦𝕝 𝕔𝕙𝕒𝕟𝕘𝕖.
 ### 🌸 𝔽𝕦𝕖𝕝𝕖𝕕 𝕓𝕪 𝕒 𝕤𝕥𝕣𝕠𝕟𝕘 𝕕𝕖𝕤𝕚𝕣𝕖 𝕗𝕠𝕣 𝕣𝕖𝕤𝕖𝕒𝕣𝕔𝕙, 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘, 𝕒𝕟𝕕 𝕙𝕒𝕟𝕕𝕤-𝕠𝕟 𝕖𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖𝕤, 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕖𝕩𝕡𝕝𝕠𝕣𝕚𝕟𝕘 𝕥𝕙𝕖 𝕗𝕒𝕤𝕔𝕚𝕟𝕒𝕥𝕚𝕟𝕘 𝕣𝕖𝕒𝕝𝕞𝕤 𝕠𝕗 𝕒𝕣𝕥𝕚𝕗𝕚𝕔𝕚𝕒𝕝 𝕚𝕟𝕥𝕖𝕝𝕝𝕚𝕘𝕖𝕟𝕔𝕖 𝕒𝕟𝕕 𝕕𝕒𝕥𝕒 𝕤𝕔𝕚𝕖𝕟𝕔𝕖.
 
+<a href="#"><img align="right" src="https://github.com/IraSafonik/img/blob/main/6226435516042edfe1a4514a44e2023a.gif" width="100 " height="200" /></a>
+
 ## 🌎 From:
 ### 💙💛 𝕌𝕜𝕣𝕒𝕚𝕟𝕖
-
-<a href="#"><img align="right" src="https://github.com/IraSafonik/img/blob/main/6226435516042edfe1a4514a44e2023a.gif" width="200 " height="200" /></a>
 
 ## 🗣️ Languages: 
 ### 🇺🇦𝕌𝕜𝕣𝕒𝕚𝕟𝕚𝕒𝕟 - 𝕟𝕒𝕥𝕚𝕧𝕖
