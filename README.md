@@ -32,6 +32,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau Badge](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
+[![Looker Badge](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=fff&style=flat)](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
 #### 💻 IDEs/Editors
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -45,6 +47,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## 🚀 Projects:
+![Tata Badge](https://img.shields.io/badge/Tata-486AAE?logo=tata&logoColor=fff&style=flat) 
+![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat)
+
 ## 🎓 Education and Certification
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
@@ -53,10 +59,17 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
-| Date      | School     | Level        | Course                                    |
-|-----------|------------------|--------------|-------------------------------------------|
-| Apr 24    | Codefinity | Intermediate | [SQL](https://codefinity.com/certificate/fe315a76-d9d2-4fa1-8a30-af0de9bf4a70/9f551543-b1bb-4307-afcd-0d82f5165ff4) |
+| Date      | School     |  Course    |
+|-----------|------------|------------|
+| Apr 24    | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='IAMPM' src='https://img.shields.io/badge/IAMPM-100000?style=for-the-badge&logo=IAMPM&logoColor=3207EA&labelColor=F0F1F7&color=F3F2FA'/></a> |  | []() |
+| Apr 24    | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Codefinity' src='https://img.shields.io/badge/Codefinity-100000?style=for-the-badge&logo=Codefinity&logoColor=2406A3&labelColor=1031F0&color=FFFFFF'/></a> | [Intermediate SQL](https://codefinity.com/certificate/fe315a76-d9d2-4fa1-8a30-af0de9bf4a70/9f551543-b1bb-4307-afcd-0d82f5165ff4) |
+| Mar 24    | ![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat) | [Advanced SQL(BigQuery)](https://www.kaggle.com/learn/certification/irynasafonik/advanced-sql) |
+| Jan 24    | ![Sololearn Badge](https://img.shields.io/badge/Sololearn-149EF2?logo=sololearn&logoColor=fff&style=flat) | [Coding For Data](https://www.sololearn.com/en/certificates/CC-GAHOGEUC) |
 
 ## GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IraSafonik&theme=tokyonight)
