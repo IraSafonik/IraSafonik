@@ -55,7 +55,9 @@
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IraSafonik&show_icons=true&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IraSafonik&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IraSafonik&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IraSafonik&theme=tokyonight)
 
 ## GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=IraSafonik&show_icons=true&theme=tokyonight)](https://github.com/IraSafonik/github-profile-trophy)
