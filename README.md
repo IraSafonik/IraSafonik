@@ -48,8 +48,10 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 🚀 Projects:
-![Tata Badge](https://img.shields.io/badge/Tata-486AAE?logo=tata&logoColor=fff&style=flat) 
-![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat)
+| Project   | Name       | Repositories | Technologies |
+|-----------|------------|--------------|--------------|
+| ![Tata Badge](https://img.shields.io/badge/Tata-486AAE?logo=tata&logoColor=fff&style=flat) | Online Retail | [Github-readme](https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group) | Tableau |
+| ![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat) | Sleep Health and Lifestyle |[Github-ipynb](https://github.com/IraSafonik/project_Sleep_Health_and_Lifestyle/blob/main/Visualization_sleep_data-2.ipynb) | python (pandas, numpy, seaborn, matplotlib, plotly) |
 
 ## 🎓 Education and Certification
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
