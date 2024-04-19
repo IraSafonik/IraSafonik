@@ -1,18 +1,18 @@
-<h1 align="center">Hey there, I'm Ira🙌</a> 
+<h1 align="center">ℍ𝕖𝕪 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝕀𝕣𝕒🙌</a> 
   
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to,+my+profile+🤗)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝕎𝕖𝕝𝕔𝕠𝕞𝕖+𝕥𝕠+𝕞𝕪+𝕡𝕣𝕠𝕗𝕚𝕝𝕖+🤗)](https://git.io/typing-svg)
 
 ## 👩‍💻 About Me :
-#### 🌿 Data Analyst who is passionate about harnessing the power of data to drive meaningful change.
-#### 🌸 Fueled by a strong desire for research, learning, and hands-on experiences, I'm currently exploring the fascinating realms of artificial intelligence and data science.
+### 🌿 𝔻𝕒𝕥𝕒 𝔸𝕟𝕒𝕝𝕪𝕤𝕥 𝕨𝕙𝕠 𝕚𝕤 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕒𝕓𝕠𝕦𝕥 𝕙𝕒𝕣𝕟𝕖𝕤𝕤𝕚𝕟𝕘 𝕥𝕙𝕖 𝕡𝕠𝕨𝕖𝕣 𝕠𝕗 𝕕𝕒𝕥𝕒 𝕥𝕠 𝕕𝕣𝕚𝕧𝕖 𝕞𝕖𝕒𝕟𝕚𝕟𝕘𝕗𝕦𝕝 𝕔𝕙𝕒𝕟𝕘𝕖.
+### 🌸 𝔽𝕦𝕖𝕝𝕖𝕕 𝕓𝕪 𝕒 𝕤𝕥𝕣𝕠𝕟𝕘 𝕕𝕖𝕤𝕚𝕣𝕖 𝕗𝕠𝕣 𝕣𝕖𝕤𝕖𝕒𝕣𝕔𝕙, 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘, 𝕒𝕟𝕕 𝕙𝕒𝕟𝕕𝕤-𝕠𝕟 𝕖𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖𝕤, 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕖𝕩𝕡𝕝𝕠𝕣𝕚𝕟𝕘 𝕥𝕙𝕖 𝕗𝕒𝕤𝕔𝕚𝕟𝕒𝕥𝕚𝕟𝕘 𝕣𝕖𝕒𝕝𝕞𝕤 𝕠𝕗 𝕒𝕣𝕥𝕚𝕗𝕚𝕔𝕚𝕒𝕝 𝕚𝕟𝕥𝕖𝕝𝕝𝕚𝕘𝕖𝕟𝕔𝕖 𝕒𝕟𝕕 𝕕𝕒𝕥𝕒 𝕤𝕔𝕚𝕖𝕟𝕔𝕖.
 
 ## 🌎 From:
-#### 💙💛 Ukraine 
+#### 💙💛 𝕌𝕜𝕣𝕒𝕚𝕟𝕖
 
 ## 🗣️ Languages: 
-#### 🇺🇦Ukrainian - native
-#### 🇬🇧English - upper-intermediate
-#### 🇪🇸Spanish - pre-intermediate
+#### 🇺🇦𝕌𝕜𝕣𝕒𝕚𝕟𝕚𝕒𝕟 - 𝕟𝕒𝕥𝕚𝕧𝕖
+#### 🇬🇧𝔼𝕟𝕘𝕝𝕚𝕤𝕙 - 𝕦𝕡𝕡𝕖𝕣-𝕚𝕟𝕥𝕖𝕣𝕞𝕖𝕕𝕚𝕒𝕥𝕖
+#### 🇪🇸𝕊𝕡𝕒𝕟𝕚𝕤𝕙 - 𝕡𝕣𝕖-𝕚𝕟𝕥𝕖𝕣𝕞𝕖𝕕𝕚𝕒𝕥𝕖
 
 ## 🌟 Core Competencies (Tools and Skills): 
 #### 💾 Databases
@@ -52,8 +52,8 @@
 ## 🚀 Projects:
 | Project   | Name       | Repositories | Technologies |
 |-----------|------------|--------------|--------------|
-| ![Tata Badge](https://img.shields.io/badge/Tata-486AAE?logo=tata&logoColor=fff&style=flat) | Online Retail | [Github-readme](https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group) | Tableau |
-| ![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat) | Sleep Health and Lifestyle |[Github-ipynb](https://github.com/IraSafonik/project_Sleep_Health_and_Lifestyle/blob/main/Visualization_sleep_data-2.ipynb) | python (pandas, numpy, seaborn, matplotlib, plotly) |
+| ![Tata Badge](https://img.shields.io/badge/Tata-486AAE?logo=tata&logoColor=fff&style=flat) | 𝕆𝕟𝕝𝕚𝕟𝕖 ℝ𝕖𝕥𝕒𝕚𝕝 | [G𝔾𝕚𝕥𝕙𝕦𝕓-𝕣𝕖𝕒𝕕𝕞𝕖](https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group) | 𝕋𝕒𝕓𝕝𝕖𝕒𝕦 |
+| ![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat) | 𝕊𝕝𝕖𝕖𝕡 ℍ𝕖𝕒𝕝𝕥𝕙 𝕒𝕟𝕕 𝕃𝕚𝕗𝕖𝕤𝕥𝕪𝕝𝕖 |[𝔾𝕚𝕥𝕙𝕦𝕓-𝕚𝕡𝕪𝕟𝕓](https://github.com/IraSafonik/project_Sleep_Health_and_Lifestyle/blob/main/Visualization_sleep_data-2.ipynb) | 𝕡𝕪𝕥𝕙𝕠𝕟 (𝕡𝕒𝕟𝕕𝕒𝕤, 𝕟𝕦𝕞𝕡𝕪, 𝕤𝕖𝕒𝕓𝕠𝕣𝕟, 𝕞𝕒𝕥𝕡𝕝𝕠𝕥𝕝𝕚𝕓, 𝕡𝕝𝕠𝕥𝕝𝕪) |
 
 ## 🎓 Education and Certification
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
@@ -70,10 +70,10 @@
 
 | Date      | School     |  Course    |
 |-----------|------------|------------|
-| Apr 24    | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='IAMPM' src='https://img.shields.io/badge/IAMPM-100000?style=for-the-badge&logo=IAMPM&logoColor=3207EA&labelColor=F0F1F7&color=F3F2FA'/></a> |  | []() |
-| Apr 24    | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Codefinity' src='https://img.shields.io/badge/Codefinity-100000?style=for-the-badge&logo=Codefinity&logoColor=2406A3&labelColor=1031F0&color=FFFFFF'/></a> | [Intermediate SQL](https://codefinity.com/certificate/fe315a76-d9d2-4fa1-8a30-af0de9bf4a70/9f551543-b1bb-4307-afcd-0d82f5165ff4) |
-| Mar 24    | ![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat) | [Advanced SQL(BigQuery)](https://www.kaggle.com/learn/certification/irynasafonik/advanced-sql) |
-| Jan 24    | ![Sololearn Badge](https://img.shields.io/badge/Sololearn-149EF2?logo=sololearn&logoColor=fff&style=flat) | [Coding For Data](https://www.sololearn.com/en/certificates/CC-GAHOGEUC) |
+| 𝔸𝕡𝕣 𝟚𝟜   | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='IAMPM' src='https://img.shields.io/badge/IAMPM-100000?style=for-the-badge&logo=IAMPM&logoColor=3207EA&labelColor=F0F1F7&color=F3F2FA'/></a> |  | []() |
+| 𝔸𝕡𝕣 𝟚𝟜   | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Codefinity' src='https://img.shields.io/badge/Codefinity-100000?style=for-the-badge&logo=Codefinity&logoColor=2406A3&labelColor=1031F0&color=FFFFFF'/></a> | [𝕀𝕟𝕥𝕖𝕣𝕞𝕖𝕕𝕚𝕒𝕥𝕖 𝕊ℚ𝕃](https://codefinity.com/certificate/fe315a76-d9d2-4fa1-8a30-af0de9bf4a70/9f551543-b1bb-4307-afcd-0d82f5165ff4) |
+| 𝕄𝕒𝕣 𝟚𝟜  | ![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat) | [𝔸𝕕𝕧𝕒𝕟𝕔𝕖𝕕 𝕊ℚ𝕃(𝔹𝕚𝕘ℚ𝕦𝕖𝕣𝕪)](https://www.kaggle.com/learn/certification/irynasafonik/advanced-sql) |
+| 𝕁𝕒𝕟 𝟚𝟜  | ![Sololearn Badge](https://img.shields.io/badge/Sololearn-149EF2?logo=sololearn&logoColor=fff&style=flat) | [ℂ𝕠𝕕𝕚𝕟𝕘 𝔽𝕠𝕣 𝔻𝕒𝕥𝕒](https://www.sololearn.com/en/certificates/CC-GAHOGEUC) |
 
 ## GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IraSafonik&theme=tokyonight)
@@ -86,4 +86,4 @@
 ## GitHub streak stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IraSafonik&show_icons=true&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Thank+you+for+reading!💙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝕋𝕙𝕒𝕟𝕜+𝕪𝕠𝕦+𝕗𝕠𝕣+𝕣𝕖𝕒𝕕𝕚𝕟𝕘!💙)](https://git.io/typing-svg)
