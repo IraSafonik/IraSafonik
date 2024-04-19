@@ -52,7 +52,7 @@
 ## 🚀 Projects:
 | Project   | Name       | Repositories | Technologies |
 |-----------|------------|--------------|--------------|
-| ![Tata Badge](https://img.shields.io/badge/Tata-486AAE?logo=tata&logoColor=fff&style=flat) | 𝕆𝕟𝕝𝕚𝕟𝕖 ℝ𝕖𝕥𝕒𝕚𝕝 | [G𝕚𝕥𝕙𝕦𝕓-𝕣𝕖𝕒𝕕𝕞𝕖](https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group) | 𝕋𝕒𝕓𝕝𝕖𝕒𝕦 |
+| ![Tata Badge](https://img.shields.io/badge/Tata-486AAE?logo=tata&logoColor=fff&style=flat) | 𝕆𝕟𝕝𝕚𝕟𝕖 ℝ𝕖𝕥𝕒𝕚𝕝 | [G𝕚𝕥𝕙𝕦𝕓-𝕣𝕖𝕒𝕕𝕞𝕖](https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group) [𝕋𝕒𝕓𝕝𝕖𝕒𝕦 ℙ𝕦𝕓𝕝𝕚𝕔](https://public.tableau.com/views/TataRetailAnalysis_17128400337470/TATARETAILANALYSIS?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | 𝕋𝕒𝕓𝕝𝕖𝕒𝕦 |
 | ![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat) | 𝕊𝕝𝕖𝕖𝕡 ℍ𝕖𝕒𝕝𝕥𝕙 𝕒𝕟𝕕 𝕃𝕚𝕗𝕖𝕤𝕥𝕪𝕝𝕖 |[𝔾𝕚𝕥𝕙𝕦𝕓-𝕚𝕡𝕪𝕟𝕓](https://github.com/IraSafonik/project_Sleep_Health_and_Lifestyle/blob/main/Visualization_sleep_data-2.ipynb) | P𝕪𝕥𝕙𝕠𝕟 (𝕡𝕒𝕟𝕕𝕒𝕤, 𝕟𝕦𝕞𝕡𝕪, 𝕤𝕖𝕒𝕓𝕠𝕣𝕟, 𝕞𝕒𝕥𝕡𝕝𝕠𝕥𝕝𝕚𝕓, 𝕡𝕝𝕠𝕥𝕝𝕪) |
 
 ## 🎓 Education and Certification
