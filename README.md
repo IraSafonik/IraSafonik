@@ -58,7 +58,6 @@
 |-----------|------------------|--------------|-------------------------------------------|
 | Apr 24    | Codefinity | Intermediate | [SQL](https://codefinity.com/certificate/fe315a76-d9d2-4fa1-8a30-af0de9bf4a70/9f551543-b1bb-4307-afcd-0d82f5165ff4) |
 
-
 ## GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IraSafonik&theme=tokyonight)
 
