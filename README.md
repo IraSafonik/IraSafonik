@@ -78,7 +78,7 @@
 | Date      | School     |  Course    |
 |-----------|------------|------------|
 | 𝔸𝕡𝕣 𝟚𝟜   | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='IAMPM' src='https://img.shields.io/badge/IAMPM-100000?style=for-the-badge&logo=IAMPM&logoColor=3207EA&labelColor=F0F1F7&color=F3F2FA'/></a> |  | []() |
-| 𝔸𝕡𝕣 𝟚𝟜   | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Codefinity' src='https://img.shields.io/badge/Codefinity-100000?style=for-the-badge&logo=Codefinity&logoColor=2406A3&labelColor=1031F0&color=FFFFFF'/></a> | [𝕀𝕟𝕥𝕖𝕣𝕞𝕖𝕕𝕚𝕒𝕥𝕖 𝕊ℚ𝕃](https://codefinity.com/certificate/fe315a76-d9d2-4fa1-8a30-af0de9bf4a70/9f551543-b1bb-4307-afcd-0d82f5165ff4) |
+| 𝔸𝕡𝕣 𝟚𝟜   | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Codefinity' src='https://img.shields.io/badge/Codefinity-100000?style=for-the-badge&logo=Codefinity&logoColor=2406A3&labelColor=1031F0&color=FFFFFF'/></a> | [𝕊ℚ𝕃 𝕗𝕣𝕠𝕞 ℤ𝕖𝕣𝕠 𝕥𝕠 ℍ𝕖𝕣𝕠](https://codefinity.com/ua/certificate/fe315a76-d9d2-4fa1-8a30-af0de9bf4a70/track/25864197-0f8f-4346-97d9-28d814e3f385) |
 | 𝕄𝕒𝕣 𝟚𝟜  | ![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat) | [𝔸𝕕𝕧𝕒𝕟𝕔𝕖𝕕 𝕊ℚ𝕃(𝔹𝕚𝕘ℚ𝕦𝕖𝕣𝕪)](https://www.kaggle.com/learn/certification/irynasafonik/advanced-sql) |
 | 𝕁𝕒𝕟 𝟚𝟜  | ![Sololearn Badge](https://img.shields.io/badge/Sololearn-149EF2?logo=sololearn&logoColor=fff&style=flat) | [ℂ𝕠𝕕𝕚𝕟𝕘 𝔽𝕠𝕣 𝔻𝕒𝕥𝕒](https://www.sololearn.com/en/certificates/CC-GAHOGEUC) |
 
