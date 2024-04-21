@@ -58,7 +58,7 @@
 ## 🚀 Projects:
 | Project   | Name       | Repositories | Technologies |
 |-----------|------------|--------------|--------------|
-| ![British Airways Badge](https://img.shields.io/badge/British%20Airways-2E5C99.svg?style=for-the-badge&logo=British-Airways&logoColor=white) |  |  | |  
+| ![British Airways Badge](https://img.shields.io/badge/British%20Airways-2E5C99?logo=britishairways&logoColor=fff&style=flat) |  |  | |  
 | ![Tata Badge](https://img.shields.io/badge/Tata-486AAE?logo=tata&logoColor=fff&style=flat) | 𝕆𝕟𝕝𝕚𝕟𝕖 ℝ𝕖𝕥𝕒𝕚𝕝 | [G𝕚𝕥𝕙𝕦𝕓-𝕣𝕖𝕒𝕕𝕞𝕖](https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group)      [𝕋𝕒𝕓𝕝𝕖𝕒𝕦 ℙ𝕦𝕓𝕝𝕚𝕔](https://public.tableau.com/views/TataRetailAnalysis_17128400337470/TATARETAILANALYSIS?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | 𝕋𝕒𝕓𝕝𝕖𝕒𝕦 |
 | ![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat) | 𝕊𝕝𝕖𝕖𝕡 ℍ𝕖𝕒𝕝𝕥𝕙 𝕒𝕟𝕕 𝕃𝕚𝕗𝕖𝕤𝕥𝕪𝕝𝕖 |[𝔾𝕚𝕥𝕙𝕦𝕓-𝕚𝕡𝕪𝕟𝕓](https://github.com/IraSafonik/project_Sleep_Health_and_Lifestyle/blob/main/Visualization_sleep_data-2.ipynb) | P𝕪𝕥𝕙𝕠𝕟 (𝕡𝕒𝕟𝕕𝕒𝕤, 𝕟𝕦𝕞𝕡𝕪, 𝕤𝕖𝕒𝕓𝕠𝕣𝕟, 𝕞𝕒𝕥𝕡𝕝𝕠𝕥𝕝𝕚𝕓, 𝕡𝕝𝕠𝕥𝕝𝕪) |
 
@@ -75,7 +75,7 @@
 ![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
-| Date      | School     |  Course    |
+| Date      | Issuer     |  Course    |
 |-----------|------------|------------|
 | 𝔸𝕡𝕣 𝟚𝟜   | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='IAMPM' src='https://img.shields.io/badge/IAMPM-100000?style=for-the-badge&logo=IAMPM&logoColor=3207EA&labelColor=F0F1F7&color=F3F2FA'/></a> |  | []() |
 | 𝔸𝕡𝕣 𝟚𝟜   | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Codefinity' src='https://img.shields.io/badge/Codefinity-100000?style=for-the-badge&logo=Codefinity&logoColor=2406A3&labelColor=1031F0&color=FFFFFF'/></a> | [𝕊ℚ𝕃 𝕗𝕣𝕠𝕞 ℤ𝕖𝕣𝕠 𝕥𝕠 ℍ𝕖𝕣𝕠](https://codefinity.com/ua/certificate/fe315a76-d9d2-4fa1-8a30-af0de9bf4a70/track/25864197-0f8f-4346-97d9-28d814e3f385) |
