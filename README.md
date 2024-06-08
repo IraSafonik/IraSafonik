@@ -81,9 +81,10 @@
 ![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
+### 𝕋𝕖𝕔𝕙 𝕊𝕜𝕚𝕝𝕝𝕤👩‍💻
+
 | Date      | Issuer     |  Course    |
 |-----------|------------|------------|
-| 𝕁𝕦𝕟 𝟚𝟜    |<a href='#000C1F' target="_blank"><img alt='DataArt' src='https://img.shields.io/badge/Dataart-100000?style=for-the-badge&logo=DataArt&logoColor=000000&labelColor=000000&color=000000'/></a> | | 
 | 𝕄𝕒𝕪 𝟚𝟜   |<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='pwc' src='https://img.shields.io/badge/pwc-100000?style=for-the-badge&logo=pwc&logoColor=1F1B1B&labelColor=FF0001&color=EA611D'/></a> |[𝕋𝕙𝕖 𝕗𝕦𝕥𝕦𝕣𝕖 𝕠𝕗 𝔾𝕖𝕟𝔸𝕀: 𝕋𝕣𝕖𝕟𝕕𝕤, 𝕚𝕟𝕟𝕠𝕧𝕒𝕥𝕚𝕠𝕟𝕤, 𝕒𝕟𝕕 𝕠𝕡𝕡𝕠𝕣𝕥𝕦𝕟𝕚𝕥𝕚𝕖𝕤](https://drive.google.com/file/d/13H9cWrfQFXHXJRyRLzL6ALMDf8h41LZf/view?usp=sharing) |
 | 𝕄𝕒𝕪 𝟚𝟜   |<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='pwc' src='https://img.shields.io/badge/pwc-100000?style=for-the-badge&logo=pwc&logoColor=1F1B1B&labelColor=FF0001&color=EA611D'/></a> |[𝕍𝕚𝕤𝕦𝕒𝕝𝕚𝕫𝕖 𝕤𝕦𝕔𝕔𝕖𝕤𝕤: ℙ𝕠𝕨𝕖𝕣 𝔹𝕀 𝔼𝕤𝕤𝕖𝕟𝕥𝕚𝕒𝕝𝕤](https://drive.google.com/file/d/1qvIS1s6PHpdOdC8kIjDFPALENiUMpixW/view?usp=sharing) |
 | 𝔸𝕡𝕣 𝟚𝟜   | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GoIT' src='https://img.shields.io/badge/GoIT-100000?style=for-the-badge&logo=GoIT&logoColor=white&labelColor=black&color=black'/></a> | [𝔻𝕒𝕥𝕒 𝔸𝕟𝕒𝕝𝕪𝕥𝕚𝕔𝕤 𝕔𝕠𝕦𝕣𝕤𝕖](https://drive.google.com/file/d/1O3hZDuOx67xv0hVwWKykjtmvXAksgKki/view?usp=sharing)|
@@ -91,6 +92,11 @@
 | 𝔸𝕡𝕣 𝟚𝟜   | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Codefinity' src='https://img.shields.io/badge/Codefinity-100000?style=for-the-badge&logo=Codefinity&logoColor=2406A3&labelColor=1031F0&color=FFFFFF'/></a> | [𝕊ℚ𝕃 𝕗𝕣𝕠𝕞 ℤ𝕖𝕣𝕠 𝕥𝕠 ℍ𝕖𝕣𝕠](https://codefinity.com/ua/certificate/fe315a76-d9d2-4fa1-8a30-af0de9bf4a70/track/25864197-0f8f-4346-97d9-28d814e3f385) |
 | 𝕄𝕒𝕣 𝟚𝟜  | ![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat) | [𝔸𝕕𝕧𝕒𝕟𝕔𝕖𝕕 𝕊ℚ𝕃(𝔹𝕚𝕘ℚ𝕦𝕖𝕣𝕪)](https://www.kaggle.com/learn/certification/irynasafonik/advanced-sql) |
 | 𝕁𝕒𝕟 𝟚𝟜  | ![Sololearn Badge](https://img.shields.io/badge/Sololearn-149EF2?logo=sololearn&logoColor=fff&style=flat) | [ℂ𝕠𝕕𝕚𝕟𝕘 𝔽𝕠𝕣 𝔻𝕒𝕥𝕒](https://www.sololearn.com/en/certificates/CC-GAHOGEUC) |
+
+### 𝕊𝕠𝕗𝕥 𝕊𝕜𝕚𝕝𝕝𝕤🧘‍♀️
+| Date      | Issuer     |  Course    |
+|-----------|------------|------------|
+| 𝕁𝕦𝕟 𝟚𝟜    |<a href='#000C1F' target="_blank"><img alt='DataArt' src='https://img.shields.io/badge/Dataart-100000?style=for-the-badge&logo=DataArt&logoColor=000000&labelColor=000000&color=000000'/></a> | | 
 
 ## GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IraSafonik&theme=tokyonight)
