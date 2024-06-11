@@ -70,6 +70,7 @@
 |![Accenture Badge](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white)|𝕊𝕠𝕔𝕚𝕒𝕝 𝔹𝕦𝕫𝕫 (𝕞𝕖𝕕𝕚𝕒 𝕡𝕝𝕒𝕥𝕗𝕠𝕣𝕞)|[𝔾𝕚𝕥𝕙𝕦𝕓-𝕣𝕖𝕒𝕕𝕞𝕖](https://github.com/IraSafonik/project_accenture-north-america/blob/main/README.md)| 𝔾𝕠𝕠𝕘𝕝𝕖 𝕊𝕙𝕖𝕖𝕥𝕤 |
 
 ## 🎓 Education and Certification
+
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
