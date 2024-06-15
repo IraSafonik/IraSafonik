@@ -84,7 +84,6 @@
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
 ### 𝕋𝕖𝕔𝕙 𝕊𝕜𝕚𝕝𝕝𝕤👩‍💻
-
 | Date      | Issuer     |  Course    |
 |-----------|------------|------------|
 | 𝕄𝕒𝕪 𝟚𝟜   |<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='pwc' src='https://img.shields.io/badge/pwc-100000?style=for-the-badge&logo=pwc&logoColor=1F1B1B&labelColor=FF0001&color=EA611D'/></a> |[𝕋𝕙𝕖 𝕗𝕦𝕥𝕦𝕣𝕖 𝕠𝕗 𝔾𝕖𝕟𝔸𝕀: 𝕋𝕣𝕖𝕟𝕕𝕤, 𝕚𝕟𝕟𝕠𝕧𝕒𝕥𝕚𝕠𝕟𝕤, 𝕒𝕟𝕕 𝕠𝕡𝕡𝕠𝕣𝕥𝕦𝕟𝕚𝕥𝕚𝕖𝕤](https://drive.google.com/file/d/13H9cWrfQFXHXJRyRLzL6ALMDf8h41LZf/view?usp=sharing) |
