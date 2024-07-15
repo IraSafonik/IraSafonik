@@ -102,7 +102,7 @@
 ### 𝕊𝕠𝕗𝕥 𝕊𝕜𝕚𝕝𝕝𝕤🧘‍♀️
 | Date      | Issuer     |  Course    |
 |-----------|------------|------------|
-| 𝕁𝕦𝕟 𝟚𝟜    |<a href='#000C1F' target="_blank"><img alt='DataArt' src='https://img.shields.io/badge/Dataart-100000?style=for-the-badge&logo=DataArt&logoColor=000000&labelColor=000000&color=000000'/></a> | | 
+| 𝕁𝕦𝕟 𝟚𝟜    |<a href='#000C1F' target="_blank"><img alt='DataArt' src='https://img.shields.io/badge/Dataart-100000?style=for-the-badge&logo=DataArt&logoColor=000000&labelColor=000000&color=000000'/></a> | [𝔼𝕞𝕠𝕥𝕚𝕠𝕟𝕒𝕝 𝕀𝕟𝕥𝕖𝕝𝕝𝕚𝕘𝕖𝕟𝕔𝕖 𝕗𝕠𝕣 𝕃𝕖𝕒𝕕𝕖𝕣𝕤](https://drive.google.com/file/d/1YoK1raMYd2b2CJNlXyxLsiqshjOIUCZ6/view?usp=sharing) | 
 
 ## GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IraSafonik&theme=tokyonight)
