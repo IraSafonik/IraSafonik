@@ -87,6 +87,7 @@
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
 ### 𝕋𝕖𝕔𝕙 𝕊𝕜𝕚𝕝𝕝𝕤👩‍💻
+
 | Date      | Issuer     |  Course    |
 |-----------|------------|------------|
 | 𝕁𝕦𝕝 𝟚𝟜    | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)  | [𝕀𝔹𝕄 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖](https://coursera.org/share/f3c07b1c7d0690e6bf4be84a814340fe) [𝕀𝔹𝕄 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕆𝕣𝕚𝕖𝕟𝕥𝕒𝕥𝕚𝕠𝕟 𝔹𝕒𝕕𝕘𝕖](https://www.credly.com/badges/b7f8a3c5-937e-4a45-8ead-51e5c0458737/public_url) |
