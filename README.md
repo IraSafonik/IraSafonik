@@ -87,6 +87,7 @@
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
 ### 𝕋𝕖𝕔𝕙 𝕊𝕜𝕚𝕝𝕝𝕤👩‍💻
+
 | Date      | Issuer     |  Course    |
 |-----------|------------|------------|
 | 𝕁𝕦𝕝 𝟚𝟜    | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='choice31' src='https://img.shields.io/badge/choice31-100000?style=for-the-badge&logo=choice31&logoColor=white&labelColor=black&color=FFFDFD'/></a> | [𝕄𝕒𝕣𝕜𝕖𝕥𝕚𝕟𝕘 𝔸𝕟𝕒𝕝𝕪𝕥𝕚𝕔𝕤](https://app.academyocean.com/verify/w7tFVcKIQRHsJEeT)  |
