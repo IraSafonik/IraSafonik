@@ -87,7 +87,6 @@
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
 ### 𝕋𝕖𝕔𝕙 𝕊𝕜𝕚𝕝𝕝𝕤👩‍💻
-
 | Date      | Issuer     |  Course    |
 |-----------|------------|------------|
 | 𝕁𝕦𝕝 𝟚𝟜    | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Lviv University' src='https://img.shields.io/badge/Lviv_University-100000?style=for-the-badge&logo=Lviv University&logoColor=white&labelColor=black&color=0108FF'/></a> | [𝔸𝕣𝕥𝕚𝕗𝕚𝕔𝕚𝕒𝕝 𝕀𝕟𝕥𝕖𝕝𝕝𝕚𝕘𝕖𝕟𝕔𝕖 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪](https://drive.google.com/file/d/1ahv86Kd6ZDZApWdT4YqSWlc2tCYBkhuX/view?usp=sharing) |
