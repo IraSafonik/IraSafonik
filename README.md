@@ -106,7 +106,7 @@
 ### 𝕊𝕠𝕗𝕥 𝕊𝕜𝕚𝕝𝕝𝕤🧘‍♀️
 | Date      | Issuer     |  Course    |
 |-----------|------------|------------|
-| 𝕁𝕦𝕝 𝟚𝟜    | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | 𝔹𝕦𝕤𝕚𝕟𝕖𝕤𝕤 𝔼𝕟𝕘𝕝𝕚𝕤𝕙 𝕓𝕪 𝕌𝕟𝕚𝕧𝕖𝕣𝕤𝕚𝕥𝕪 𝕠𝕗 𝕎𝕒𝕤𝕙𝕚𝕟𝕘𝕥𝕠𝕟 |
+| 𝕁𝕦𝕝 𝟚𝟜    | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [𝔹𝕦𝕤𝕚𝕟𝕖𝕤𝕤 𝔼𝕟𝕘𝕝𝕚𝕤𝕙 𝕓𝕪 𝕌𝕟𝕚𝕧𝕖𝕣𝕤𝕚𝕥𝕪 𝕠𝕗 𝕎𝕒𝕤𝕙𝕚𝕟𝕘𝕥𝕠𝕟](https://coursera.org/share/33146723554fdcd38e73102dcaaf38de) |
 | 𝕁𝕦𝕟 𝟚𝟜    |<a href='#000C1F' target="_blank"><img alt='DataArt' src='https://img.shields.io/badge/Dataart-100000?style=for-the-badge&logo=DataArt&logoColor=000000&labelColor=000000&color=000000'/></a> | [𝔼𝕞𝕠𝕥𝕚𝕠𝕟𝕒𝕝 𝕀𝕟𝕥𝕖𝕝𝕝𝕚𝕘𝕖𝕟𝕔𝕖 𝕗𝕠𝕣 𝕃𝕖𝕒𝕕𝕖𝕣𝕤](https://drive.google.com/file/d/1YoK1raMYd2b2CJNlXyxLsiqshjOIUCZ6/view?usp=sharing) | 
 
 ## GitHub Stats
@@ -121,5 +121,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IraSafonik&show_icons=true&theme=tokyonight)](https://git.io/streak-stats)
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝕋𝕙𝕒𝕟𝕜+𝕪𝕠𝕦+𝕗𝕠𝕣+𝕣𝕖𝕒𝕕𝕚𝕟𝕘!💙)](https://git.io/typing-svg)
-
-![Snake animation]( https://github.com/IraSafonik/IraSafonik/blob/output/github-contribution-grid-snake.svg )
