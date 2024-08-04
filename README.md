@@ -104,7 +104,6 @@
 | 𝕁𝕒𝕟 𝟚𝟜  | ![Sololearn Badge](https://img.shields.io/badge/Sololearn-149EF2?logo=sololearn&logoColor=fff&style=flat) | [ℂ𝕠𝕕𝕚𝕟𝕘 𝔽𝕠𝕣 𝔻𝕒𝕥𝕒](https://www.sololearn.com/en/certificates/CC-GAHOGEUC) |
 
 ### 𝕊𝕠𝕗𝕥 𝕊𝕜𝕚𝕝𝕝𝕤🧘‍♀️
-
 | Date      | Issuer     |  Course    |
 |-----------|------------|------------|
 | 𝕁𝕦𝕝 𝟚𝟜    | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [𝔹𝕦𝕤𝕚𝕟𝕖𝕤𝕤 𝔼𝕟𝕘𝕝𝕚𝕤𝕙 𝕓𝕪 𝕌𝕟𝕚𝕧𝕖𝕣𝕤𝕚𝕥𝕪 𝕠𝕗 𝕎𝕒𝕤𝕙𝕚𝕟𝕘𝕥𝕠𝕟](https://coursera.org/share/33146723554fdcd38e73102dcaaf38de) |
