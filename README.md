@@ -90,6 +90,7 @@
 ### 𝕋𝕖𝕔𝕙 𝕊𝕜𝕚𝕝𝕝𝕤👩‍💻
 | Date      | Issuer     |  Course    |
 |-----------|------------|------------|
+| 𝔸𝕦𝕘 𝟚𝟜   | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕄𝕖𝕥𝕙𝕠𝕕𝕠𝕝𝕠𝕘𝕪 𝕓𝕪 𝕀𝔹𝕄](https://coursera.org/share/f50b35a9ab71dda50c2205364acec11a) |
 | 𝔸𝕦𝕘 𝟚𝟜   | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [𝕋𝕠𝕠𝕝𝕤 𝕗𝕠𝕣 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕓𝕪 𝕀𝔹𝕄](https://coursera.org/share/0e476ae366a87c11b155f5bf1ded72a5) |
 | 𝕁𝕦𝕝 𝟚𝟜    | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [ℙ𝕣𝕖𝕡𝕒𝕣𝕖, ℂ𝕝𝕖𝕒𝕟, 𝕋𝕣𝕒𝕟𝕤𝕗𝕠𝕣𝕞, 𝕒𝕟𝕕 𝕃𝕠𝕒𝕕 𝔻𝕒𝕥𝕒 𝕦𝕤𝕚𝕟𝕘 ℙ𝕠𝕨𝕖𝕣 𝔹𝕀](https://coursera.org/share/8eeef127c7af838f750b1ede1325bc60) |
 | 𝕁𝕦𝕝 𝟚𝟜    | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Lviv University' src='https://img.shields.io/badge/Lviv_University-100000?style=for-the-badge&logo=Lviv University&logoColor=white&labelColor=black&color=0108FF'/></a> | [𝔸𝕣𝕥𝕚𝕗𝕚𝕔𝕚𝕒𝕝 𝕀𝕟𝕥𝕖𝕝𝕝𝕚𝕘𝕖𝕟𝕔𝕖 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪](https://drive.google.com/file/d/1ahv86Kd6ZDZApWdT4YqSWlc2tCYBkhuX/view?usp=sharing) |
