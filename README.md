@@ -20,6 +20,7 @@
 ### 🇬🇧𝔼𝕟𝕘𝕝𝕚𝕤𝕙 - 𝕦𝕡𝕡𝕖𝕣-𝕚𝕟𝕥𝕖𝕣𝕞𝕖𝕕𝕚𝕒𝕥𝕖
 ### 🇪🇸𝕊𝕡𝕒𝕟𝕚𝕤𝕙 - 𝕡𝕣𝕖-𝕚𝕟𝕥𝕖𝕣𝕞𝕖𝕕𝕚𝕒𝕥𝕖
 
+
 ## 🌟 Core Competencies: 
 #### 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
