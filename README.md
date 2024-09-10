@@ -91,6 +91,7 @@
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
 ### 𝕋𝕖𝕔𝕙 𝕊𝕜𝕚𝕝𝕝𝕤👩‍💻
+
 | Date      | Issuer     |  Course    |
 |-----------|------------|------------|
 | 𝔸𝕦𝕘 𝟚𝟜   | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='pwc' src='https://img.shields.io/badge/pwc-100000?style=for-the-badge&logo=pwc&logoColor=1F1B1B&labelColor=FF0001&color=EA611D'/></a> | [𝕄𝕊 𝔼𝕩𝕔𝕖𝕝 𝕋𝕣𝕒𝕚𝕟𝕚𝕟𝕘](https://drive.google.com/file/d/1INtgx9D4-2HIhJZjhMoIH8AJuLV3E0Pb/view?usp=sharing) |
