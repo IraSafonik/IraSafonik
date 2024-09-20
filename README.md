@@ -94,7 +94,7 @@
 
 | Date      | Issuer     |  Course    |
 |-----------|------------|------------|
-| 𝕊𝕖𝕡 𝟚𝟜   | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [ℙ𝕪𝕥𝕙𝕠𝕟 ℙ𝕣𝕠𝕛𝕖𝕔𝕥 𝕗𝕠𝕣 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖](https://coursera.org/share/e35d217b85a2f5b67d8542a769ae7d86) |
+| 𝕊𝕖𝕡 𝟚𝟜   | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [ℙ𝕪𝕥𝕙𝕠𝕟 ℙ𝕣𝕠𝕛𝕖𝕔𝕥 𝕗𝕠𝕣 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕓𝕪 𝕀𝔹𝕄](https://coursera.org/share/e35d217b85a2f5b67d8542a769ae7d86) |
 | 𝔸𝕦𝕘 𝟚𝟜   | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='pwc' src='https://img.shields.io/badge/pwc-100000?style=for-the-badge&logo=pwc&logoColor=1F1B1B&labelColor=FF0001&color=EA611D'/></a> | [𝕄𝕊 𝔼𝕩𝕔𝕖𝕝 𝕋𝕣𝕒𝕚𝕟𝕚𝕟𝕘](https://drive.google.com/file/d/1INtgx9D4-2HIhJZjhMoIH8AJuLV3E0Pb/view?usp=sharing) |
 | 𝔸𝕦𝕘 𝟚𝟜   | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [ℙ𝕪𝕥𝕙𝕠𝕟 𝕗𝕠𝕣 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖, 𝔸𝕀 & 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 𝕓𝕪 𝕀𝔹𝕄](https://coursera.org/share/90215da04835e78dc0e68902f1e6e9a9) |
 | 𝔸𝕦𝕘 𝟚𝟜   | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕄𝕖𝕥𝕙𝕠𝕕𝕠𝕝𝕠𝕘𝕪](https://coursera.org/share/f50b35a9ab71dda50c2205364acec11a) [𝕀𝔹𝕄 𝔹𝕒𝕕𝕘𝕖](https://www.credly.com/badges/abf70acf-33e8-4af0-b56c-a995129f7f91) |
