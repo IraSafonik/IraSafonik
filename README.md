@@ -94,6 +94,7 @@
 
 | Date      | Issuer     |  Course    |
 |-----------|------------|------------|
+| 𝕆𝕔𝕥 𝟚𝟜   | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [𝔻𝕒𝕥𝕒 𝕍𝕚𝕤𝕦𝕒𝕝𝕚𝕫𝕒𝕥𝕚𝕠𝕟 𝕨𝕚𝕥𝕙 ℙ𝕪𝕥𝕙𝕠𝕟]() |
 | 𝕆𝕔𝕥 𝟚𝟜   | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [𝔻𝕒𝕥𝕒 𝔸𝕟𝕒𝕝𝕪𝕤𝕚𝕤 𝕨𝕚𝕥𝕙 ℙ𝕪𝕥𝕙𝕠𝕟](https://coursera.org/share/bec931bed2e1eaa8e459c9971d3a7088) |
 | 𝕊𝕖𝕡 𝟚𝟜   | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖𝕤 𝕒𝕟𝕕 𝕊ℚ𝕃 𝕗𝕠𝕣 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕨𝕚𝕥𝕙 ℙ𝕪𝕥𝕙𝕠𝕟](https://coursera.org/share/8463738ce5060eeb8b6e6e3f5a393674) |
 | 𝕊𝕖𝕡 𝟚𝟜   | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [ℙ𝕪𝕥𝕙𝕠𝕟 ℙ𝕣𝕠𝕛𝕖𝕔𝕥 𝕗𝕠𝕣 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕓𝕪 𝕀𝔹𝕄](https://coursera.org/share/e35d217b85a2f5b67d8542a769ae7d86) |
