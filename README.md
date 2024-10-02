@@ -95,6 +95,7 @@
 
 | Date      | Issuer     |  Course    |
 |-----------|------------|------------|
+| 𝕆𝕔𝕥 𝟚𝟜   | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕨𝕚𝕥𝕙 ℙ𝕪𝕥𝕙𝕠𝕟](https://coursera.org/share/211585455b93cd29df114aa995b3823f) | 
 | 𝕆𝕔𝕥 𝟚𝟜   | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [𝕀𝕟𝕥𝕣𝕠𝕕𝕦𝕔𝕥𝕚𝕠𝕟 𝕥𝕠 𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤 𝕓𝕪 𝕊𝕥𝕒𝕟𝕗𝕠𝕣𝕕 𝕌𝕟𝕚𝕧𝕖𝕣𝕤𝕚𝕥𝕪](https://coursera.org/share/fbffd861ab3a82df5f503f9ad238317e) | 
 | 𝕆𝕔𝕥 𝟚𝟜   | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [𝔻𝕒𝕥𝕒 𝕍𝕚𝕤𝕦𝕒𝕝𝕚𝕫𝕒𝕥𝕚𝕠𝕟 𝕨𝕚𝕥𝕙 ℙ𝕪𝕥𝕙𝕠𝕟 𝕓𝕪 𝕀𝔹𝕄](https://coursera.org/share/e92e860d766bf1601e0d3eaf82898d75) |
 | 𝕆𝕔𝕥 𝟚𝟜   | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [𝔻𝕒𝕥𝕒 𝔸𝕟𝕒𝕝𝕪𝕤𝕚𝕤 𝕨𝕚𝕥𝕙 ℙ𝕪𝕥𝕙𝕠𝕟 𝕓𝕪 𝕀𝔹𝕄](https://coursera.org/share/bec931bed2e1eaa8e459c9971d3a7088) |
