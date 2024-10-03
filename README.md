@@ -93,7 +93,6 @@
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
 ### 𝕋𝕖𝕔𝕙 𝕊𝕜𝕚𝕝𝕝𝕤👩‍💻
-
 | Date      | Issuer     |  Course    |
 |-----------|------------|------------|
 | 𝕆𝕔𝕥 𝟚𝟜   | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕨𝕚𝕥𝕙 ℙ𝕪𝕥𝕙𝕠𝕟](https://coursera.org/share/211585455b93cd29df114aa995b3823f) | 
