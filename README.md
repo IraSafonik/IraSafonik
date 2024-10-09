@@ -118,6 +118,7 @@
 | 𝕄𝕒𝕣 𝟚𝟜  | ![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat) | [𝔸𝕕𝕧𝕒𝕟𝕔𝕖𝕕 𝕊ℚ𝕃(𝔹𝕚𝕘ℚ𝕦𝕖𝕣𝕪)](https://www.kaggle.com/learn/certification/irynasafonik/advanced-sql) |
 | 𝕁𝕒𝕟 𝟚𝟜  | ![Sololearn Badge](https://img.shields.io/badge/Sololearn-149EF2?logo=sololearn&logoColor=fff&style=flat) | [ℂ𝕠𝕕𝕚𝕟𝕘 𝔽𝕠𝕣 𝔻𝕒𝕥𝕒](https://www.sololearn.com/en/certificates/CC-GAHOGEUC) |
 
+
 ### 𝕊𝕠𝕗𝕥 𝕊𝕜𝕚𝕝𝕝𝕤🧘‍♀️
 | Date      | Issuer     |  Course    |
 |-----------|------------|------------|
